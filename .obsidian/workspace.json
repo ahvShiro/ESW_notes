@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "24-11-25 Intro UML.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "24-11-25 Intro UML"
+            }
+          },
+          {
+            "id": "0b3df2e2a2f4b1af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9. MDL/Distância mínima de gráfos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Distância mínima de gráfos"
             }
           }
         ]
@@ -213,12 +227,9 @@
   },
   "active": "dd692a7683d56c4d",
   "lastOpenFiles": [
-    "9. MDL/Distância mínima de gráfos.md",
-    "Revisão para a Recuperação.md",
-    "24-10-14 Gerenciamento de Mudanças.md",
-    "24-10-14 Escopo.md",
     "9. MDL/Revisão para a Recuperação.md",
     "9. MDL",
+    "9. MDL/Distância mínima de gráfos.md",
     "Imersão Back-End 01 - Desvendando APIs e Servidores.md",
     "1. ESW/24-11-25 Intro UML.md",
     "1. ESW/24-11-18 Elicitação de requisitos.md",
@@ -249,6 +260,7 @@
     "7. BD I/24-08-23 SQL.md",
     "0. Assets/Screenshot 2024-09-08 234542.png",
     "24-08-30 ACID",
+    "24-08-29 Artigo científico.md",
     "0. Assets/Excalidraw",
     "24-08-29 Artigo científico.md~",
     "1. ESW/Revisão ESW.canvas",
