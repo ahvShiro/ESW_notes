@@ -1,2 +1,0 @@
-# Resultados
-## Testes de execução
