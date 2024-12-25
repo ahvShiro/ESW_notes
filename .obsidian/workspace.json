@@ -13,44 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "e9d4f968a7b969f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. MPES/24-11-07 Divulgação e comunicação de pesquisa.md",
+                "file": "24-11-25 Intro UML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24-11-07 Divulgação e comunicação de pesquisa"
+              "title": "24-11-25 Intro UML"
             }
           },
           {
-            "id": "ca52f582e2ba908b",
+            "id": "0b3df2e2a2f4b1af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "24-11-07 Relações e Funções.md",
+                "file": "9. MDL/Distância mínima de gráfos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24-11-07 Relações e Funções"
+              "title": "Distância mínima de gráfos"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,14 +226,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ca52f582e2ba908b",
+  "active": "f57ba81208f5500f",
   "lastOpenFiles": [
+    "9. MDL/Revisão para a Recuperação.md",
+    "9. MDL",
+    "9. MDL/Distância mínima de gráfos.md",
+    "Imersão Back-End 01 - Desvendando APIs e Servidores.md",
+    "1. ESW/24-11-25 Intro UML.md",
+    "1. ESW/24-11-18 Elicitação de requisitos.md",
+    "9. MDL/24-11-07 Relações e Funções.md",
+    "Untitled.canvas",
+    "README.md",
     "5. MPES/24-11-07 Divulgação e comunicação de pesquisa.md",
-    "24-11-07 Relações e Funções.md",
     "1. ESW/24-10-14 Gerenciamento de Mudanças.md",
     "1. ESW/24-10-14 Escopo.md",
-    "README.md",
-    "Revisão para a Recuperação.md",
     "Ink/Writing/2024.10.30 - 15.38pm.writing",
     "Ink/Writing",
     "Ink",
@@ -271,17 +263,11 @@
     "0. Assets/Screenshot 2024-09-08 234542.png",
     "24-08-30 ACID",
     "24-08-29 Artigo científico.md",
-    "7. BD I/24-07-19 Relacionamentos e Cardinalidade.md",
-    "8. LPGA/24-08-23 Resenha Crítica e Descritiva.md",
-    "0. Assets/Excalidraw/Excedente consumidor 1 eq.md",
     "0. Assets/Excalidraw",
-    "5. MPES/24-08-29 Artigo científico.md",
     "24-08-29 Artigo científico.md~",
-    "1. ESW/24-08-26 Requisitos funcionais.md",
     "1. ESW/Revisão ESW.canvas",
     "5. MPES/Revisão não concluida.canvas",
     "8. LPGA/~syncthing~2024-08-02.md.tmp",
-    "8. LPGA/~syncthing~Untitled.md.tmp",
     "4. ECS/Revisão 1º Trimestre.canvas",
     "Revisão ESW.sync-conflict-20240722-191110-AYHW47V.canvas",
     "Revisão ESW.sync-conflict-20240722-190834-AYHW47V.canvas",

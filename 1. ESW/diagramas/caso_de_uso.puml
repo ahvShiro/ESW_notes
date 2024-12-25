@@ -1,0 +1,9 @@
+@startuml login
+
+:Usuário: -- (Login)
+(Login) ..> (Verificar Credenciais) : <<include>>
+(Verificar Credenciais) .> (Exibir Mensagem de Senha Incorreta) : <<extend>>
+
+@enduml
+
+
