@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Streamlined Study Sesh"
             }
-          },
-          {
-            "id": "0bc8b2bb78784476",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-02-04 14.27.19.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-02-04 14.27.19.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-02-04 14.27.19.excalidraw.md",
+                "file": "Streamlined Study Sesh.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-02-04 14.27.19.excalidraw"
+              "title": "Outline of Streamlined Study Sesh"
             }
           },
           {
@@ -209,10 +196,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0bc8b2bb78784476",
+  "active": "dd692a7683d56c4d",
   "lastOpenFiles": [
-    "Teste.md",
     "Excalidraw/Drawing 2025-02-04 14.27.19.excalidraw.md",
+    "Teste.md",
     "Streamlined Study Sesh.md",
     "Untitled Kanban.md",
     "0. Assets",
