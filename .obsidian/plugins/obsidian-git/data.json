@@ -1,6 +1,6 @@
 {
-  "commitMessage": "backup: {{date}}",
-  "commitDateFormat": "YYYY-MM-DD HH:mm[, ]dddd",
+  "commitMessage": "auto backup: {{date}}",
+  "commitDateFormat": "DD/MM/YYYY HH:mm [(]dddd[)]",
   "autoSaveInterval": 4,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
@@ -55,5 +55,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "backu: {{date}}"
+  "autoCommitMessage": "auto backup: {{date}}"
 }
