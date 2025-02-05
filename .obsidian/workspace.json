@@ -138,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Streamlined Study Sesh.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Streamlined Study Sesh"
+              "title": "Sumário"
             }
           },
           {
