@@ -1,10 +1,10 @@
 
 ![](https://www.youtube.com/watch?v=jfKfPfyJRdk)
 
-| Horários | Seg | Ter | Qua | Qui | Sex |
-| ------------- | ------- | ------- | ------- | ------- | ------- |
-| 19:20 - 21:00 | A definir  | |   |   | |
-| 21:10 - 22:50 |   | |   |   | |
+| Horários      | Seg       | Ter | Qua | Qui | Sex |
+| ------------- | --------- | --- | --- | --- | --- |
+| 19:20 - 21:00 | A definir |     |     |     |     |
+| 21:10 - 22:50 | a         |     |     |     |     |
 
 ```dataview
 TABLE WITHOUT ID

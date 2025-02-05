@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "beb31bd260fb83d2",
+        "id": "34d464dbdb9777a8",
         "type": "tabs",
         "children": [
           {
-            "id": "dd692a7683d56c4d",
+            "id": "45e168f35a06f983",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Streamlined Study Sesh.md",
+                "file": "3. AG_II/hello_world.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Streamlined Study Sesh"
+              "title": "hello_world"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Streamlined Study Sesh.md",
+                "file": "3. AG_II/hello_world.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Streamlined Study Sesh"
+              "title": "Sumário de hello_world"
             }
           },
           {
@@ -186,25 +186,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
-      "command-palette:Open command palette": true,
-      "daily-notes:Open today's daily note": false,
+      "graph:Abrir visualização em gráfico": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "publish:Publicar mudanças": false,
+      "obsidian-kanban:Criar um novo quadro": false,
       "homepage:Open homepage": false,
-      "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "publish:Publish changes...": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd692a7683d56c4d",
+  "active": "45e168f35a06f983",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-02-04 14.27.19.excalidraw.md",
+    "8. APS/hello_world.md",
+    "Untitled.md",
     "Teste.md",
+    "Excalidraw/Drawing 2025-02-04 14.27.19.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-31 13.58.40.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-31 13.58.41.excalidraw.md",
+    "README.md",
     "Streamlined Study Sesh.md",
     "Untitled Kanban.md",
     "0. Assets",
-    "Excalidraw/Drawing 2024-12-31 13.58.40.excalidraw.md",
-    "Excalidraw/Drawing 2024-12-31 13.58.41.excalidraw.md",
     "Excalidraw/Drawing 2024-12-31 13.58.42.excalidraw.md",
     "Excalidraw",
     "9. MDL/Revisão para a Recuperação.md",
@@ -215,7 +218,6 @@
     "1. ESW/24-11-18 Elicitação de requisitos.md",
     "9. MDL/24-11-07 Relações e Funções.md",
     "Untitled.canvas",
-    "README.md",
     "5. MPES/24-11-07 Divulgação e comunicação de pesquisa.md",
     "1. ESW/24-10-14 Gerenciamento de Mudanças.md",
     "1. ESW/24-10-14 Escopo.md",
@@ -231,8 +233,6 @@
     "1. ESW/24-09-23 Regra de Negócio.md",
     "24-09-11.md",
     "0. Assets/Screenshot 2024-09-08 234542 1.png",
-    "24-09-10.md",
-    "24-09-06.md",
     "0. Assets/Screenshot 2024-09-08 234542.png",
     "24-08-30 ACID",
     "0. Assets/Excalidraw",
