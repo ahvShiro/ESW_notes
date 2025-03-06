@@ -6,3 +6,6 @@
 - Fora do contexto acadêmico
 - Integração comunidade/universidade
 - Aplicação dos seus conhecimentos em contextos reais
+
+- Problemas na sociedade
+- 

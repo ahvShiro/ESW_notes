@@ -129,13 +129,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. PEX/Introdução à disciplina.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Introdução à disciplina"
+              "title": "Outline"
             }
           }
         ],
@@ -173,11 +172,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "524bf30f8f96ad80",
+  "active": "45e168f35a06f983",
   "lastOpenFiles": [
+    "7. PEX/Introdução à disciplina.md",
     "README.md",
     "Untitled.md",
-    "7. PEX/Introdução à disciplina.md",
     "7. PEX/hello_world.md",
     "3. AG_II/hello_world.md",
     "8. APS/hello_world.md",
