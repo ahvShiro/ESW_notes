@@ -11,10 +11,14 @@
             "id": "45e168f35a06f983",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "7. PEX/Sem título.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Sem título"
             }
           }
         ]
@@ -100,53 +104,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b43cdf8e6e0c116d",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "8. LPGA/24-07-12 Relatório.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 24-07-12 Relatório"
-            }
-          },
-          {
-            "id": "817e4863abca53cb",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-02-04 14.27.19.excalidraw.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2025-02-04 14.27.19.excalidraw"
-            }
-          },
-          {
-            "id": "023a2627187dea94",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Sumário"
-            }
-          },
-          {
             "id": "b0803cf9542d0683",
             "type": "leaf",
             "state": {
@@ -156,8 +113,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "c60b38cb8f936dad",
@@ -191,8 +147,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f57ba81208f5500f",
+  "active": "45e168f35a06f983",
   "lastOpenFiles": [
+    "7. PEX/hello_world.md",
+    "7. PEX/Sem título.md",
     "Untitled.md",
     "3. AG_II/hello_world.md",
     "8. APS/hello_world.md",
@@ -225,8 +183,6 @@
     "1. ESW/24-09-30 Requisitos não funcionais.md",
     "kjffkj.txt",
     "5. MPES/24-09-05.md",
-    "24-10-04 INOVATHON.md",
-    "1. ESW/24-09-23 Regra de Negócio.md",
     "0. Assets/Screenshot 2024-09-08 234542 1.png",
     "0. Assets/Screenshot 2024-09-08 234542.png",
     "24-08-30 ACID",
