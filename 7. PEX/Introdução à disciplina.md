@@ -14,6 +14,13 @@
 ## Curricularização
 - Pelo menos 10% da carga horária total deve ser destinada a extensão
 - Deve estar alinhada com a extensão já realizada no âmbito institucional
-	- Planos de Desenvolvimento Intitucionais
+	- Planos de Desenvolvimento Institucionais
 	- Projetos Políticos Institucionais
-	- P
+	- Planejamento Pedagógico de Curso
+
+## Princípios
+- Indissociabilidade entre ensino, pesquisa e extensão
+- Impacto social
+- Aprendizagem significativa
+- Interdisciplinaridade
+- 
