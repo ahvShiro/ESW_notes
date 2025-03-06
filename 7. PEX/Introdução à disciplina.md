@@ -23,4 +23,18 @@
 - Impacto social
 - Aprendizagem significativa
 - Interdisciplinaridade
-- 
+
+## Atividades
+- Investigar como a curricularização da extensão
+
+Dados:
+- resoluções das instituições sobre as curricularizações
+
+1. como a instituição implementou a 
+2. quais desafios firam enfentados e como foram superados
+3. quais resultados positivos firam obtidos na formaçao de alunos
+
+Relatório de 2-4 páginas ou apresentação
+
+Relatorio intro, metodologia, analise e conclusao
+
