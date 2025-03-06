@@ -24,7 +24,7 @@
 - Aprendizagem significativa
 - Interdisciplinaridade
 
-## Atividades
+## Atividade
 - Investigar como a curricularização da extensão
 
 Dados:
