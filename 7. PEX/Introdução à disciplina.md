@@ -11,4 +11,9 @@
 
 
 ---
-Pe
+## Curricularização
+- Pelo menos 10% da carga horária total deve ser destinada a extensão
+- Deve estar alinhada com a extensão já realizada no âmbito institucional
+	- Planos de Desenvolvimento Intitucionais
+	- Projetos Políticos Institucionais
+	- P
