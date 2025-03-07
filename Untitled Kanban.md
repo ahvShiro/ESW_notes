@@ -1,5 +1,5 @@
 ---
-kanban-plugin: list
+kanban-plugin: board
 ---
 
 ## Para fazer
