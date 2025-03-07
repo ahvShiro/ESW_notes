@@ -8,7 +8,7 @@
 ```dataview
 TABLE WITHOUT ID
 file.link AS "Cálculo"
-FROM #CAL 
+FROM [[CAL]]
 SORT file.name DESC
 ```
 
@@ -51,7 +51,7 @@ SORT file.name DESC
 ```dataview
 TABLE WITHOUT ID
 file.link AS "Práticas de Extensão"
-FROM PEX  
+FROM [[PEX]]  
 SORT file.name DESC
 ```
 
