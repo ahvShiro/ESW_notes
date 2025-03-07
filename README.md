@@ -16,35 +16,35 @@ SORT file.name DESC
 TABLE WITHOUT ID
 file.link AS "Empreendedorismo em Tecnologia da
 Informação"
-FROM #EMP 
+FROM [[EMP]] 
 SORT file.name DESC
 ```
 
 ```dataview
 TABLE WITHOUT ID
 file.link AS "Algoritmos e Estruturas de Dados II"
-FROM #AG_II
+FROM [[AG_II]]
 SORT file.name DESC
 ```
 
 ```dataview
 TABLE WITHOUT ID
 file.link AS "Arquitetura de Computadores"
-FROM #ARQ 
+FROM [[ARQ]] 
 SORT file.name DESC
 ```
 
 ```dataview
 TABLE WITHOUT ID
 file.link AS "Banco de dados II"
-FROM #BD_II 
+FROM [[BD_II]] 
 SORT file.name DESC
 ```
 
 ```dataview
 TABLE WITHOUT ID
 file.link AS "Programação Orientada a Objetos"
-FROM #OOP 
+FROM [[OOP]] 
 SORT file.name DESC
 ```
 
@@ -58,6 +58,6 @@ SORT file.name DESC
 ```dataview
 TABLE WITHOUT ID
 file.link AS "Análise e Projeto de Sistemas"
-FROM #APS 
+FROM [[APS]] 
 SORT file.name DESC
 ```
