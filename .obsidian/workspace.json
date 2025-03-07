@@ -11,10 +11,14 @@
             "id": "e920ebd8b282b51d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Fichamento.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Fichamento"
             }
           }
         ]
@@ -205,24 +209,25 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "f57ba81208f5500f",
+  "active": "e920ebd8b282b51d",
   "lastOpenFiles": [
-    "README.md",
-    "7. PEX/2025-03-07 TODO Relatório.md",
-    "3. AG_II/hello_world.md",
-    "7. PEX/2025-03-06 Introdução à disciplina.md",
-    "000 Assets/Templates/Template Anotação de Aulas.md",
-    "aula1.md",
-    "0. Assets/Untitled",
-    "ARQ.md",
-    "000 Assets/Templates",
-    "8. APS/hello_world.md",
-    "6. OOP/hello_world.md",
-    "5. BD_II/hello_world.md",
-    "4. ARQ/hello_world.md",
-    "2. EMP/hello_world.md",
-    "1. CAL/hello_world.md",
+    "700 PEX/PEX.md",
     "Fichamento.md",
+    "aula1.md",
+    "400 ARQ/ARQ.md",
+    "600 OOP/hello_world.md",
+    "400 ARQ/hello_world.md",
+    "5. BD_II/hello_world.md",
+    "200 EMP/hello_world.md",
+    "1. CAL/hello_world.md",
+    "README.md",
+    "700 PEX/2025-03-07 TODO Relatório.md",
+    "300 AG_II/hello_world.md",
+    "700 PEX/2025-03-06 Introdução à disciplina.md",
+    "000 Assets/Templates/Template Anotação de Aulas.md",
+    "0. Assets/Untitled",
+    "000 Assets/Templates",
+    "800 APS/hello_world.md",
     "7. PEX/hello_world.md",
     "Teste.md",
     "Excalidraw/Drawing 2025-02-04 14.27.19.excalidraw.md",
