@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARQ.md",
+                "file": "000 Assets/Templates/Template Anotação de Aulas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ARQ"
+              "title": "Template Anotação de Aulas"
             }
           }
         ]
@@ -208,12 +208,14 @@
       "templates:Insert template": false
     }
   },
-  "active": "f57ba81208f5500f",
+  "active": "cc02cdce506920d6",
   "lastOpenFiles": [
-    "7. PEX/2025-03-06 Introdução à disciplina.md",
-    "0. Assets/Templates/Template Anotação de Aulas.md",
+    "aula1.md",
+    "000 Assets/Templates/Template Anotação de Aulas.md",
+    "0. Assets/Untitled",
     "ARQ.md",
-    "0. Assets/Templates",
+    "7. PEX/2025-03-06 Introdução à disciplina.md",
+    "000 Assets/Templates",
     "8. APS/hello_world.md",
     "6. OOP/hello_world.md",
     "5. BD_II/hello_world.md",
@@ -223,7 +225,6 @@
     "1. CAL/hello_world.md",
     "README.md",
     "Fichamento.md",
-    "aula1.md",
     "7. PEX/2025-03-07 TODO Relatório.md",
     "7. PEX/hello_world.md",
     "Teste.md",
@@ -231,15 +232,14 @@
     "Excalidraw/Drawing 2024-12-31 13.58.40.excalidraw.md",
     "Excalidraw/Drawing 2024-12-31 13.58.41.excalidraw.md",
     "Streamlined Study Sesh.md",
-    "0. Assets",
+    "000 Assets",
     "Excalidraw/Drawing 2024-12-31 13.58.42.excalidraw.md",
-    "0. Assets/Excalidraw",
+    "000 Assets/Excalidraw",
     "9. MDL/Revisão para a Recuperação.md",
     "9. MDL",
     "9. MDL/Distância mínima de gráfos.md",
     "Imersão Back-End 01 - Desvendando APIs e Servidores.md",
     "1. ESW/24-11-25 Intro UML.md",
-    "1. ESW/24-11-18 Elicitação de requisitos.md",
     "Untitled.canvas",
     "Ink/Writing/2024.10.30 - 15.38pm.writing",
     "Ink/Writing",
@@ -248,7 +248,6 @@
     "0. Assets/Screenshot 2024-09-08 234542 1.png",
     "0. Assets/Screenshot 2024-09-08 234542.png",
     "24-08-30 ACID",
-    "0. Assets/Excalidraw",
     "1. ESW/Revisão ESW.canvas",
     "5. MPES/Revisão não concluida.canvas",
     "4. ECS/Revisão 1º Trimestre.canvas",
