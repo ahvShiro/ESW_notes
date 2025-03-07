@@ -196,6 +196,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
