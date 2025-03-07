@@ -1,5 +1,4 @@
-**Aula:** [[PEX]]
-**Tópicos:** #curricularização
+**Aula:** #
 
 > [!NOTE] Extensão
 > Desenvolvimento de atividades para a comunidade externa
