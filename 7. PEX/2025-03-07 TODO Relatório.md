@@ -3,7 +3,6 @@
 kanban-plugin: board
 
 ---
-#PEX 
 ## Para fazer
 
 - [ ] Como a instituição pesquisada implementou a curricularização da extensão?

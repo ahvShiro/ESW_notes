@@ -4,27 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1a0abec53dc5166e",
+        "id": "3a877fc59560c4eb",
         "type": "tabs",
         "children": [
           {
-            "id": "cc02cdce506920d6",
+            "id": "e920ebd8b282b51d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "7. PEX/2025-03-07 TODO Relatório.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "2025-03-07 TODO Relatório"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -205,17 +195,21 @@
       "homepage:Open homepage": false,
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false,
-      "publish:Publish changes...": false,
+      "command-palette:Open command palette": true,
+      "publish:Publish changes...": true,
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "switcher:Open quick switcher": false,
-      "templates:Insert template": false
+      "obsidian-git:Open Git source control": true,
+      "switcher:Open quick switcher": true,
+      "templates:Insert template": true,
+      "canvas:Create new canvas": false
     }
   },
-  "active": "cc02cdce506920d6",
+  "active": "f57ba81208f5500f",
   "lastOpenFiles": [
+    "README.md",
+    "7. PEX/2025-03-07 TODO Relatório.md",
+    "3. AG_II/hello_world.md",
     "7. PEX/2025-03-06 Introdução à disciplina.md",
     "000 Assets/Templates/Template Anotação de Aulas.md",
     "aula1.md",
@@ -226,12 +220,9 @@
     "6. OOP/hello_world.md",
     "5. BD_II/hello_world.md",
     "4. ARQ/hello_world.md",
-    "3. AG_II/hello_world.md",
     "2. EMP/hello_world.md",
     "1. CAL/hello_world.md",
-    "README.md",
     "Fichamento.md",
-    "7. PEX/2025-03-07 TODO Relatório.md",
     "7. PEX/hello_world.md",
     "Teste.md",
     "Excalidraw/Drawing 2025-02-04 14.27.19.excalidraw.md",

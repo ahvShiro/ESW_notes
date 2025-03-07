@@ -1,7 +1,7 @@
 **Aula:** [[]]
 **Data:** {{date}} - {{time}}
 **Tópicos:** #
-[[ARQ]]
+
 > [!NOTE] Extensão
 > Desenvolvimento de atividades para a comunidade externa
 
