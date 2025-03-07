@@ -13,7 +13,7 @@ kanban-plugin: board
 
 ## Fazendo
 
-- [ ] - [ ] https://www.extecamp.unicamp.br/historiaextecamp.asp
+- [ ] - [ ] (História Extecamp)[https://www.extecamp.unicamp.br/historiaextecamp.asp]
 		- [ ] Trecho 1
 		- [ ] Trecho 2
 	- [ ] Fonte 2
