@@ -1,7 +1,7 @@
 {
   "file-explorer": true,
   "global-search": true,
-  "switcher": false,
+  "switcher": true,
   "graph": true,
   "backlink": true,
   "canvas": false,
@@ -10,7 +10,7 @@
   "properties": false,
   "page-preview": true,
   "daily-notes": true,
-  "templates": false,
+  "templates": true,
   "note-composer": true,
   "command-palette": true,
   "slash-command": true,

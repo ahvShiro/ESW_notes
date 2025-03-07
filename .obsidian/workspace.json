@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARQ.md",
+                "file": "0. Assets/Templates/Template Anotação de Aulas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ARQ"
+              "title": "Template Anotação de Aulas"
             }
           }
         ]
@@ -203,11 +203,16 @@
       "publish:Publish changes...": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": false
     }
   },
   "active": "cc02cdce506920d6",
   "lastOpenFiles": [
+    "ARQ.md",
+    "0. Assets/Templates/Template Anotação de Aulas.md",
+    "0. Assets/Templates",
     "8. APS/hello_world.md",
     "7. PEX/2025-03-06 Introdução à disciplina.md",
     "6. OOP/hello_world.md",
@@ -220,7 +225,6 @@
     "Fichamento.md",
     "aula1.md",
     "7. PEX/2025-03-07 TODO Relatório.md",
-    "ARQ.md",
     "7. PEX/hello_world.md",
     "Teste.md",
     "Excalidraw/Drawing 2025-02-04 14.27.19.excalidraw.md",
@@ -236,7 +240,6 @@
     "Imersão Back-End 01 - Desvendando APIs e Servidores.md",
     "1. ESW/24-11-25 Intro UML.md",
     "1. ESW/24-11-18 Elicitação de requisitos.md",
-    "9. MDL/24-11-07 Relações e Funções.md",
     "Untitled.canvas",
     "Ink/Writing/2024.10.30 - 15.38pm.writing",
     "Ink/Writing",
@@ -246,7 +249,6 @@
     "0. Assets/Screenshot 2024-09-08 234542.png",
     "24-08-30 ACID",
     "0. Assets/Excalidraw",
-    "24-08-29 Artigo científico.md~",
     "1. ESW/Revisão ESW.canvas",
     "5. MPES/Revisão não concluida.canvas",
     "4. ECS/Revisão 1º Trimestre.canvas",
