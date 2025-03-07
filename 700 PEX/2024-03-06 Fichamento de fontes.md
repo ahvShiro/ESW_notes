@@ -1,5 +1,4 @@
-**Matéria:** [[PEX]]
-**Tópicos:** #trabalho #relatorio #apresentacao
+#PEX #trabalho/relatório #trabalho/apresentação
 
 História:
 https://www.extecamp.unicamp.br/historiaextecamp.asp
