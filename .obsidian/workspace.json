@@ -11,10 +11,14 @@
             "id": "5da5fdd5f10efcda",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "500 Banco de Dados II/2025-03-07.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-03-07"
             }
           }
         ]
@@ -187,7 +191,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 377.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,7 +208,7 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "f5b87a86ee91d350",
+  "active": "5da5fdd5f10efcda",
   "lastOpenFiles": [
     "500 Banco de Dados II/BD_II.md",
     "500 Banco de Dados II/2025-03-07.md",
