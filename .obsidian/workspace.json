@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ef1608f3f67ac64f",
+        "id": "1a0abec53dc5166e",
         "type": "tabs",
         "children": [
           {
-            "id": "524bf30f8f96ad80",
+            "id": "cc02cdce506920d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. PEX/Introdução à disciplina.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introdução à disciplina"
+              "title": "README"
             }
           }
         ]
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. PEX/Introdução à disciplina.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Introdução à disciplina"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -162,12 +162,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. PEX/Introdução à disciplina.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Introdução à disciplina"
+              "title": "Outgoing links from README"
             }
           }
         ],
@@ -206,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "524bf30f8f96ad80",
+  "active": "cc02cdce506920d6",
   "lastOpenFiles": [
     "7. PEX/Introdução à disciplina.md",
     "README.md",
