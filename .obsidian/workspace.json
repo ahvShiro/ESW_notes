@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "7. PEX/Introdução à disciplina.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Introdução à disciplina"
             }
           }
         ]
@@ -208,8 +208,8 @@
   },
   "active": "cc02cdce506920d6",
   "lastOpenFiles": [
-    "7. PEX/Introdução à disciplina.md",
     "README.md",
+    "7. PEX/Introdução à disciplina.md",
     "Untitled.md",
     "7. PEX/hello_world.md",
     "3. AG_II/hello_world.md",
