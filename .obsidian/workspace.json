@@ -11,14 +11,20 @@
             "id": "cc02cdce506920d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Fichamento.md",
-                "mode": "source",
-                "source": false
+                "file": "2025-03-07 TODO Relatório.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Fichamento"
+              "icon": "lucide-trello",
+              "title": "2025-03-07 TODO Relatório"
             }
           }
         ]
@@ -208,8 +214,8 @@
   },
   "active": "cc02cdce506920d6",
   "lastOpenFiles": [
-    "7. PEX/2025-03-06 Introdução à disciplina.md",
     "Fichamento.md",
+    "7. PEX/2025-03-06 Introdução à disciplina.md",
     "2025-03-07 TODO Relatório.md",
     "README.md",
     "7. PEX/hello_world.md",
