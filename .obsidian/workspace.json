@@ -11,20 +11,14 @@
             "id": "cc02cdce506920d6",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "2025-03-07 TODO Relatório.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "aula1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "2025-03-07 TODO Relatório"
+              "icon": "lucide-file",
+              "title": "aula1"
             }
           }
         ]
@@ -214,9 +208,11 @@
   },
   "active": "cc02cdce506920d6",
   "lastOpenFiles": [
+    "ARQ.md",
+    "aula1.md",
+    "2025-03-07 TODO Relatório.md",
     "Fichamento.md",
     "7. PEX/2025-03-06 Introdução à disciplina.md",
-    "2025-03-07 TODO Relatório.md",
     "README.md",
     "7. PEX/hello_world.md",
     "3. AG_II/hello_world.md",
@@ -245,9 +241,7 @@
     "Ink",
     "8. LPGA/24-07-12 Relatório.md",
     "Excalidraw/Drawing 2024-10-29 13.17.28.excalidraw.md",
-    "1. ESW/24-09-30 Requisitos não funcionais.md",
     "kjffkj.txt",
-    "5. MPES/24-09-05.md",
     "0. Assets/Screenshot 2024-09-08 234542 1.png",
     "0. Assets/Screenshot 2024-09-08 234542.png",
     "24-08-30 ACID",
