@@ -143,6 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "7. PEX/Introdução à disciplina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +153,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Introdução à disciplina"
             }
           },
           {
@@ -161,11 +162,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "7. PEX/Introdução à disciplina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Introdução à disciplina"
             }
           }
         ],
@@ -189,7 +191,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45e168f35a06f983",
+  "active": "524bf30f8f96ad80",
   "lastOpenFiles": [
     "7. PEX/Introdução à disciplina.md",
     "README.md",
