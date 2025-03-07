@@ -12,3 +12,9 @@ No processo de criação da Unicamp, o professor Zeferino Vaz, considerava de ex
 
 
 No mês de maio de 1988 o Reitor Prof. Dr. Paulo Renato Costa Souza, com vistas à implantação de um órgão que administrasse os cursos de extensão, convidou o Prof. Dr. Carlos Alberto da Silva Lima, na época professor do Instituto de Física Gleb Wataghin, para coordenar as atividades a serem desenvolvidas. Esta organização inicial recebeu o nome de Coordenadoria dos Cursos de Extensão. Sob sua orientação foram efetuados levantamentos de todos os cursos de extensão que já estavam sendo ministrados pela Universidade por iniciativa das Unidades de Ensino. O resultado desta pesquisa foi divulgado em uma publicação de 1989 na qual contavam-se 282 cursos. Como partes do processo de implantação da Extecamp foram definidas e aprovadas às portarias e normas que iriam reger a Escola.
+
+
+
+- Começaram com cursos de economia e de empreendedorismo
+	- https://www.extecamp.unicamp.br/documentos-extecamp/formularios/primeiros_cursos.pdf
+- 
