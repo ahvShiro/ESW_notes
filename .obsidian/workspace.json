@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aula1.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aula1"
+              "title": "README"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "alphabeticalReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -198,7 +198,6 @@
     "hiddenItems": {
       "homepage:Open homepage": false,
       "graph:Open graph view": false,
-      "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": true,
       "publish:Publish changes...": true,
       "obsidian-kanban:Create new board": false,
@@ -211,23 +210,25 @@
   },
   "active": "03fa70e35f148150",
   "lastOpenFiles": [
-    "README.md",
-    "700 PEX/PEX.md",
-    "700 PEX/2024-03-06 Fichamento de fontes.md",
+    "800 APS/hello_world.md",
     "700 PEX/2025-03-07 TODO Relatório.md",
     "700 PEX/2025-03-06 Introdução à disciplina.md",
-    "aula1.md",
-    "000 Assets/Templates/{{date}} Template Anotação de Aulas.md",
+    "700 PEX/2024-03-06 Fichamento de fontes.md",
     "400 ARQ/ARQ.md",
+    "300 AG_II/hello_world.md",
+    "aula1.md",
+    "aula1 (3rd copy).md",
+    "aula1 (7th copy).md",
+    "README.md",
+    "700 PEX/PEX.md",
+    "000 Assets/Templates/{{date}} Template Anotação de Aulas.md",
     "600 OOP/hello_world.md",
     "400 ARQ/hello_world.md",
     "5. BD_II/hello_world.md",
     "200 EMP/hello_world.md",
     "1. CAL/hello_world.md",
-    "300 AG_II/hello_world.md",
     "0. Assets/Untitled",
     "000 Assets/Templates",
-    "800 APS/hello_world.md",
     "7. PEX/hello_world.md",
     "Teste.md",
     "Excalidraw/Drawing 2025-02-04 14.27.19.excalidraw.md",
@@ -240,8 +241,6 @@
     "9. MDL/Revisão para a Recuperação.md",
     "9. MDL",
     "9. MDL/Distância mínima de gráfos.md",
-    "Imersão Back-End 01 - Desvendando APIs e Servidores.md",
-    "1. ESW/24-11-25 Intro UML.md",
     "Untitled.canvas",
     "Ink/Writing/2024.10.30 - 15.38pm.writing",
     "Ink/Writing",
