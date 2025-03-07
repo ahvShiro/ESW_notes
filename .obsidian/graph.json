@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#PEX",
+      "query": "file:PEX",
       "color": {
         "a": 1,
         "rgb": 14701138

@@ -1,4 +1,5 @@
-#PEX #curricularização
+[[PEX]]
+#curricularização
 
 > [!NOTE] Extensão
 > Desenvolvimento de atividades para a comunidade externa
