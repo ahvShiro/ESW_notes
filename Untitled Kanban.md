@@ -1,5 +1,7 @@
 ---
+
 kanban-plugin: board
+
 ---
 
 ## Para fazer
@@ -7,7 +9,11 @@ kanban-plugin: board
 - [ ] Como a instituição pesquisada implementou a curricularização da extensão?
 - [ ] Encontrar pelo menos 7 fontes
 - [ ] Extrair dessas 7 fontes pelo menos 2 trechos falando sobre a implementação
-- [ ] - [ ] Fonte 1
+
+
+## Fazendo
+
+- [ ] - [ ] https://www.extecamp.unicamp.br/historiaextecamp.asp
 		- [ ] Trecho 1
 		- [ ] Trecho 2
 	- [ ] Fonte 2
@@ -22,10 +28,6 @@ kanban-plugin: board
 	- [ ] Fonte 5
 		- [ ] Trecho 1
 		- [ ] Trecho 2
-
-
-## Fazendo
-
 
 
 ## Feito
