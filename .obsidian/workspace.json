@@ -11,14 +11,10 @@
             "id": "e920ebd8b282b51d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fichamento.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fichamento"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -211,9 +207,12 @@
   },
   "active": "e920ebd8b282b51d",
   "lastOpenFiles": [
-    "700 PEX/PEX.md",
-    "Fichamento.md",
+    "700 PEX/2025-03-07 TODO Relatório.md",
+    "700 PEX/2025-03-06 Introdução à disciplina.md",
+    "700 PEX/2024-03-06 Fichamento de fontes.md",
     "aula1.md",
+    "000 Assets/Templates/{{date}} Template Anotação de Aulas.md",
+    "700 PEX/PEX.md",
     "400 ARQ/ARQ.md",
     "600 OOP/hello_world.md",
     "400 ARQ/hello_world.md",
@@ -221,10 +220,7 @@
     "200 EMP/hello_world.md",
     "1. CAL/hello_world.md",
     "README.md",
-    "700 PEX/2025-03-07 TODO Relatório.md",
     "300 AG_II/hello_world.md",
-    "700 PEX/2025-03-06 Introdução à disciplina.md",
-    "000 Assets/Templates/Template Anotação de Aulas.md",
     "0. Assets/Untitled",
     "000 Assets/Templates",
     "800 APS/hello_world.md",

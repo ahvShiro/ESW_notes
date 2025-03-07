@@ -1,6 +1,5 @@
-**Aula:** [[]]
-**Data:** {{date}} - {{time}}
-**Tópicos:** #
+**Aula:** [[PEX]]
+**Tópicos:** #curricularização
 
 > [!NOTE] Extensão
 > Desenvolvimento de atividades para a comunidade externa
@@ -9,7 +8,6 @@
 - Integração comunidade/universidade
 - Aplicação dos seus conhecimentos em contextos reais
 - Problemas na sociedade
-
 
 ---
 ## Curricularização
