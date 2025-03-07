@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Assets/Templates/Template Anotação de Aulas.md",
+                "file": "ARQ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Template Anotação de Aulas"
+              "title": "ARQ"
             }
           }
         ]
@@ -208,13 +208,13 @@
       "templates:Insert template": false
     }
   },
-  "active": "cc02cdce506920d6",
+  "active": "f57ba81208f5500f",
   "lastOpenFiles": [
-    "ARQ.md",
+    "7. PEX/2025-03-06 Introdução à disciplina.md",
     "0. Assets/Templates/Template Anotação de Aulas.md",
+    "ARQ.md",
     "0. Assets/Templates",
     "8. APS/hello_world.md",
-    "7. PEX/2025-03-06 Introdução à disciplina.md",
     "6. OOP/hello_world.md",
     "5. BD_II/hello_world.md",
     "4. ARQ/hello_world.md",
@@ -233,7 +233,7 @@
     "Streamlined Study Sesh.md",
     "0. Assets",
     "Excalidraw/Drawing 2024-12-31 13.58.42.excalidraw.md",
-    "Excalidraw",
+    "0. Assets/Excalidraw",
     "9. MDL/Revisão para a Recuperação.md",
     "9. MDL",
     "9. MDL/Distância mínima de gráfos.md",
