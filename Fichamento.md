@@ -18,6 +18,7 @@ No mês de maio de 1988 o Reitor Prof. Dr. Paulo Renato Costa Souza, com vistas 
 - Começaram com cursos de economia e de empreendedorismo
 	- https://www.extecamp.unicamp.br/documentos-extecamp/formularios/primeiros_cursos.pdf
 
-- https://www.extecamp.unicamp.br/catalogo/catalogo_Extecamp-2023.pdf
+- [catalogos](https://www.extecamp.unicamp.br/catalogo.asp)
+- [catalogo de cursos 2023](https://www.extecamp.unicamp.br/catalogo/catalogo_Extecamp-2023.pdf)
 	  - A Unicamp oferece tanto cursos avançados, para o ensino superior, quanto cursos básicos para qualquer escolaridade
 	  - Entre os cursos ofertados estão X, Y e Z
