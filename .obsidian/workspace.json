@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3a877fc59560c4eb",
+        "id": "3471e17ef80d143a",
         "type": "tabs",
         "children": [
           {
-            "id": "e920ebd8b282b51d",
+            "id": "03fa70e35f148150",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "aula1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "aula1"
             }
           }
         ]
@@ -205,21 +209,21 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "e920ebd8b282b51d",
+  "active": "03fa70e35f148150",
   "lastOpenFiles": [
+    "README.md",
+    "700 PEX/PEX.md",
+    "700 PEX/2024-03-06 Fichamento de fontes.md",
     "700 PEX/2025-03-07 TODO Relatório.md",
     "700 PEX/2025-03-06 Introdução à disciplina.md",
-    "700 PEX/2024-03-06 Fichamento de fontes.md",
     "aula1.md",
     "000 Assets/Templates/{{date}} Template Anotação de Aulas.md",
-    "700 PEX/PEX.md",
     "400 ARQ/ARQ.md",
     "600 OOP/hello_world.md",
     "400 ARQ/hello_world.md",
     "5. BD_II/hello_world.md",
     "200 EMP/hello_world.md",
     "1. CAL/hello_world.md",
-    "README.md",
     "300 AG_II/hello_world.md",
     "0. Assets/Untitled",
     "000 Assets/Templates",
