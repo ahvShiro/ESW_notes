@@ -11,20 +11,14 @@
             "id": "cc02cdce506920d6",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Fichamento.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "Fichamento"
             }
           },
           {
@@ -224,9 +218,9 @@
   "active": "cc02cdce506920d6",
   "lastOpenFiles": [
     "Untitled Kanban.md",
+    "Fichamento.md",
     "7. PEX/2025-03-06 Introdução à disciplina.md",
     "README.md",
-    "Untitled.md",
     "7. PEX/hello_world.md",
     "3. AG_II/hello_world.md",
     "8. APS/hello_world.md",
