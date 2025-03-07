@@ -15,7 +15,7 @@
               "state": {
                 "file": "Untitled Kanban.md",
                 "kanbanViewState": {
-                  "kanban-plugin": "board",
+                  "kanban-plugin": "list",
                   "list-collapse": [
                     false,
                     false,
@@ -25,6 +25,16 @@
               },
               "icon": "lucide-trello",
               "title": "Untitled Kanban"
+            }
+          },
+          {
+            "id": "8c57370d7e8da79d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
